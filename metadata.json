@@ -1,0 +1,5 @@
+{
+  "name": "Akaium's Goal",
+  "description": "A personal productivity, self-control, and lifestyle tracking app with finance, recovery, anime, and prayer features.",
+  "requestFramePermissions": ["geolocation"]
+}
